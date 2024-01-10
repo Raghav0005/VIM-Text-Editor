@@ -30,9 +30,9 @@ This is a fully interactive text editor, developed with a thorough object-orient
 9. Undo
    - (u)
 10. File Information Display
-   - (CtrlG)
-11. Repetition
-   - (;, .)
+    - (CtrlG)
+12. Repetition
+    - (;, .)
 
 Please contact to view and run code (r2vasude@uwaterloo.ca or vasuraghav04@gmail.com).
 
