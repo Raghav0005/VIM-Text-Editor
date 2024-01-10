@@ -3,6 +3,7 @@
 This is a fully interactive text editor, developed with a thorough object-oriented design in C++.
 Notable Design Principles and Patterns include:
 - Factory Method Pattern
+- Inheritance and Polymorphism
 - SOLID Principles
 - RAII (Use of Shared Pointers)
 - Cohesion and Coupling
