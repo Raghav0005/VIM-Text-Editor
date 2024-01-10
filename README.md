@@ -1,7 +1,8 @@
 # VM-Text-Editor
 
 This is a fully interactive text editor, developed with a thorough object-oriented design in C++.
-Notable Design Principles and Patterns include:
+
+### Notable Design Principles and Patterns
 - MVC Design Principle
 - Factory Method Pattern
 - Inheritance and Polymorphism
@@ -9,8 +10,31 @@ Notable Design Principles and Patterns include:
 - RAII (Use of Shared Pointers)
 - Cohesion and Coupling
 
-Please contact to view and run code.
+### Features and Command Types
+1. Navigation
+   (h, j, k, l, $, 0, b, w, ^, %, a, i, A, I, :0, :line-number, f{c}, F{c})
+2. Editing
+   (S, s, c[all motions], d[all motions], o, O, J, r{c})
+3. Clipboard
+   (x, X, p, P, yy, y[all motions])
+4. Search
+   (/, ?, n, N)
+5. Page Scrolling
+   (CtrlB, CtrlF, CtrlD, CtrlU)
+6. Macros
+   (@@, @{register}, q{register}, q)
+7. Insert Mode
+   (Normal Text Editing, Backspace, Enter, Escape)
+8. File Management
+   (:w, :r, :wq, :q!)
+9. Undo
+    (u)
+10. File Information Display
+    (CtrlG)
+11. Repetition
+    (;, .)
 
+Please contact to view and run code (r2vasude@uwaterloo.ca or vasuraghav04@gmail.com).
 
 ### Compilation
 `
