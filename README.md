@@ -12,27 +12,27 @@ This is a fully interactive text editor, developed with a thorough object-orient
 
 ### Features and Command Types
 1. Navigation
-   (h, j, k, l, $, 0, b, w, ^, %, a, i, A, I, :0, :line-number, f{c}, F{c})
+   - (h, j, k, l, $, 0, b, w, ^, %, a, i, A, I, :0, :line-number, f{c}, F{c})
 2. Editing
-   (S, s, c[all motions], d[all motions], o, O, J, r{c})
+   - (S, s, c[all motions], d[all motions], o, O, J, r{c})
 3. Clipboard
-   (x, X, p, P, yy, y[all motions])
+   - (x, X, p, P, yy, y[all motions])
 4. Search
-   (/, ?, n, N)
+   - (/, ?, n, N)
 5. Page Scrolling
-   (CtrlB, CtrlF, CtrlD, CtrlU)
+   - (CtrlB, CtrlF, CtrlD, CtrlU)
 6. Macros
-   (@@, @{register}, q{register}, q)
+   - (@@, @{register}, q{register}, q)
 7. Insert Mode
-   (Normal Text Editing, Backspace, Enter, Escape)
+   - (Normal Text Editing, Backspace, Enter, Escape)
 8. File Management
-   (:w, :r, :wq, :q!)
+   - (:w, :r, :wq, :q!)
 9. Undo
-    (u)
+   - (u)
 10. File Information Display
-    (CtrlG)
+   - (CtrlG)
 11. Repetition
-    (;, .)
+   - (;, .)
 
 Please contact to view and run code (r2vasude@uwaterloo.ca or vasuraghav04@gmail.com).
 
