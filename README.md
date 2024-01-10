@@ -2,6 +2,7 @@
 
 This is a fully interactive text editor, developed with a thorough object-oriented design in C++.
 Notable Design Principles and Patterns include:
+- MVC Design Principle
 - Factory Method Pattern
 - Inheritance and Polymorphism
 - SOLID Principles
