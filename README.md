@@ -1,4 +1,4 @@
-# VM-Text-Editor
+# VIM-Text-Editor
 
 This is a fully interactive text editor, developed with a thorough object-oriented design in C++.
 
